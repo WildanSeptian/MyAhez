@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=WildanSeptian.MyAhez" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=myahezz.myahezz" />
 
 <div align="center"> 
   <a herf="https://git.io/typing-svg">
@@ -12,7 +12,7 @@
  
  🌱 I’m currently learning **Docker, Supabase, AWS**
 
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/WildanSeptian/MyAhez/issues)**
+💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/myahezz/myahezz/issues)**
 
 ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
