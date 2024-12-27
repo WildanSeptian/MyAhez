@@ -42,4 +42,5 @@
 <br>
 <div align=center>
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=myahezz&show_icons=true&theme=algolia"/>
+  <img width=390 src="https://streak-stats.demolab.com?user=myahezz&theme=algolia" alt="GitHub Streak" /></a>"
 </div>
