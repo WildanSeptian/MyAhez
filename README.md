@@ -45,3 +45,11 @@
   <img width=390 src="https://streak-stats.demolab.com?user=myahezz&theme=algolia" alt="GitHub Streak" />
   <img width=325 align="center" src="(https://github-readme-stats.vercel.app/api/top-langs/?username=myahezz&layout=pie)](https://github.com/myahezz/github-readme-stats)"/>
 </div>
+
+<br/>
+<hr/>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=myahezz&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=myahezz&theme=shadow_blue&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=myahezz&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+
