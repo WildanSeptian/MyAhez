@@ -38,3 +38,8 @@
 </div>
 <br/>
 <hr/>
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+  ![](https://github-readme-stats.vercel.app/api?username=myahezza&show_icons=true&theme=algolia)
+</div>
